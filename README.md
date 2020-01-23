@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App Description
 
-## Available Scripts
+Kruuu is a mockup web application for work entrance test at Alan Creative. Being made at 22 January to 23 January 2020.
 
-In the project directory, you can run:
+## App Usage
 
-### `npm start`
+Go to [Kruuu](https://kruuu-nf0297.netlify.com) for insight about the app. 
+ 
+## Note
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This app is for work entrance test, therefore i made this app according to their request. Note that this app is not 100% complete especially the feature, because as of right now there is only 2 clickable button which is 'See all talent' button and 'Home' button. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Feature 
 
-### `npm test`
+Mockup Feature:
+There is no actual feature implemented in this app (for now) because in this app, i just showed data from database and there is no CRUD for it. Data that i showed from database is:
+- Talent Data (Fullname, Image and Occupation)
+- Job Data (Title, Image)
+- Company / Partner Data (Image)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Stack Used in this App
 
-### `npm run build`
+- [React Js](https://reactjs.org/) - Front End
+- [Express Js](https://expressjs.com/) - Back End
+- [MySQL](https://www.mysql.com/) - Database
+- [Sequelize](https://www.sequelize.org/) - Object Relation Mapping
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+ Nurul Fikri - [nf0297](https://github.com/nf0297/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contact
 
-### `npm run eject`
+- WA/Telegram: +62 822 6107 8325
+- email: nf0297@gmail.com
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
