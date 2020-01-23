@@ -53,7 +53,7 @@ class Homepage extends Component {
                         <Grid column={3} divided style={style.grid2}>
                             <Grid.Row column={1}>
                                 <Grid.Column>
-                                    <h1>Why you should use Kruuu?</h1>
+                                    <h1>Why should you use Kruuu?</h1>
                                 </Grid.Column>
                             </Grid.Row>
 
